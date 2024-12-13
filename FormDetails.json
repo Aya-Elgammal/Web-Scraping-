@@ -1,0 +1,24 @@
+{
+    "form": [
+        {
+            "name": "username",
+            "type": "text",
+            "placeholder": "Enter your username"
+        },
+        {
+            "name": "password",
+            "type": "password",
+            "placeholder": "Enter your password"
+        },
+        {
+            "name": "terms",
+            "type": "checkbox",
+            "placeholder": null
+        },
+        {
+            "name": null,
+            "type": "submit",
+            "placeholder": null
+        }
+    ]
+}
